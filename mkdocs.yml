@@ -1,5 +1,5 @@
-site_name: UPSCb Common Documentation
-site_url: https://sagar-umu.github.io/UPSCb-common/
+site_name: How to Build and Host Documentation
+site_url: https://UPSCb.github.io/UPSCb-common-docu/
 
 docs_dir: docs
 site_dir: site
@@ -30,17 +30,15 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-
-extra:
-  version:
-    provider: mike
+  extra:
+    version:
+      provider: mike
 
 plugins:
   - search
   - awesome-pages
   - git-revision-date-localized:
       type: date
-      fallback_to_build_date: true
   - mike
   - macros
 
@@ -48,13 +46,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
 
 extra_css:
   - css/custom.css
