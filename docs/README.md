@@ -1,10 +1,18 @@
 On these pages you will find basic information about the bio-info facility's infrastructure and how to properly use it to ensure minimum disruptions and maximum productivity. 
 This page also acts as a library of common scripts and templates created to avoid reinventing the wheel then and again. This resource assumes no prior user experience with bioinformatic tools and resources. If you are familiar with the tools and resources, great, if not, please visit the [Resources](3.%20Resources.md) tab.
 
-Please use the menu on the left to navigate or use the search bar to find relevant information. 
----
-## CITATION
+===
+
+## CITATION AND ACKNOWLEDGMENTS
 Please use [![DOI](https://zenodo.org/badge/206072841.svg)](https://zenodo.org/badge/latestdoi/206072841) to cite the use of these repos :-)
+
+For acknowledgements please refer to the text below:
+
+``` txt
+The authors wish to thank the UPSC bioinformatics facility (https://bioinfomatics.upsc.se) for technical support with regards to the RNA-Seq data pre-processing and analyses. We would also like to acknowledge support from Science for Life Laboratory, the Knut and Alice Wallenberg Foundation, the National Genomics Infrastructure funded by the Swedish Research Council, and Uppsala Multidisciplinary Center for Advanced Computational Science for assistance with massively parallel sequencing and access to the UPPMAX computational infrastructure.
+
+```
+
 
 ## IMPORTANT NOTICE
 
