@@ -1,7 +1,6 @@
 On these pages you will find basic information about the bio-info facility's infrastructure and how to properly use it to ensure minimum disruptions and maximum productivity. 
 This page also acts as a library of common scripts and templates created to avoid reinventing the wheel then and again. This resource assumes no prior user experience with bioinformatic tools and resources. If you are familiar with the tools and resources, great, if not, please visit the [Resources](3.%20Resources.md) tab.
 
-===
 
 ## CITATION AND ACKNOWLEDGMENTS
 Please use [![DOI](https://zenodo.org/badge/206072841.svg)](https://zenodo.org/badge/latestdoi/206072841) to cite the use of these repos :-)
