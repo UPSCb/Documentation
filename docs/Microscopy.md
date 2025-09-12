@@ -4,7 +4,7 @@ For microscope users, things are set-up slightly differently. Access is provided
 
 ## Connecting from your computer
 
-You will need to be within UPSC or connected to the UmU network with VPN. A **web interface** can be accessed [here](https://hopper.srv.its.umu.se:5001/#/signin) for Windows machines and [here](smb://hopper.srv.its.umu.se:139) for Mac. 
+You will need to be within UPSC or connected to the UmU network with VPN. A **web interface** can be accessed [here](https://hopper.srv.its.umu.se:5001/#/signin). 
 
 You can also mount the network directory (which will make it visible and accessible) on your work computer by following the steps below.
 
@@ -18,14 +18,14 @@ If you are already connected to the microscopy drive from your computer, then di
 Otherwise (or then):
 1. In the File Explorer, go to "This PC"
 2. click on the three dots ... and select Add network location 
-3. Cick Choose a custom network location Then enter: \\hopper.srv.itI.umu.se\XXXXX (replace XXXXX with the name of the folder) 
+3. Cick Choose a custom network location Then enter: \\hopper.srv.its.umu.se\XXXXX (replace XXXXX with the name of the folder) 
 5. Then at the Enter network credentials step, use the credentials shared with you on Slack, check in the box "Remember my credentials" 
 6. Press OK
 
 ### MacOS
 
 1. In the Finder, click Go and connect to server...
-2. Use the URL smb://hopper.srv.its.umu.se:139/XXXXX (replace XXXXX with the name of the folder)
+2. Use the URL smb://hopper.srv.its.umu.se/XXXXX (replace XXXXX with the name of the folder)
 3. Accept when the message pops up saying "you are trying to connect to hopper...
 4. Change the credentials to those shared with you on Slack
 5. You may check the box to save the password in your keychain
