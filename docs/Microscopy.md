@@ -1,6 +1,6 @@
 # Microscopy storage access
 
-For microscope users, things are set-up slightly differently. Access is provided on the PI group level and the directories are named with the first letter of PI's first name followed by their lastname e.g if PI is Nicolas Delhomme, directory will be ndelhomme. Each group has a password that you can access in messages pinned on Slack channels named after PIs.
+For microscope users, things are set-up slightly differently. Access is provided on the PI group level and the directories are named with the first letter of PI's first name followed by their last name e.g. if PI is Nicolas Delhomme, directory will be ndelhomme. Each group has a password that you can access in messages pinned on Slack channels named after PIs.
 
 ## Connecting from your computer
 
@@ -22,9 +22,9 @@ Otherwise (or then):
 
 1. In the File Explorer, go to "This PC"
 
-2. click on the three dots ... and select Add network location 
+2. Click on the three dots ... and select Add network location 
 
-3. Cick Choose a custom network location Then enter: \\hopper.srv.its.umu.se\XXXXX (replace XXXXX with the name of the folder) 
+3. Click Choose a custom network location Then enter: \\hopper.srv.its.umu.se\XXXXX (replace XXXXX with the name of the folder) 
 
 5. Then at the Enter network credentials step, use the credentials shared with you on Slack, check in the box "Remember my credentials" 
 
@@ -33,13 +33,17 @@ Otherwise (or then):
 ### MacOS
 
 1. In the Finder, click Go and connect to server...
+
 2. Use the URL smb://hopper.srv.its.umu.se/XXXXX (replace XXXXX with the name of the folder)
+
 3. Accept when the message pops up saying "you are trying to connect to hopper...
+
 4. Change the credentials to those shared with you on Slack
+
 5. You may check the box to save the password in your keychain
 
 >!!! Note 
-For some users, it only worked after capitalising the first letter of the username, e.g.using Ndelhomme instead of ndelhomme
+For some users, it only worked after capitalising the first letter of the username, e.g. using Ndelhomme instead of ndelhomme
 
 ### Linux
 
@@ -47,7 +51,7 @@ If you are using e.g. Ubuntu, you can similarly access the folder. We have not h
 
 ### On common lab computers
 
-These are e.g.computers associated with lab instruments from the microscopy facility or others (RNA/DNA lab).
+These are e.g. computers associated with lab instruments from the microscopy facility or others (RNA/DNA lab).
 
 ## Microscopy platform
 
@@ -55,7 +59,7 @@ As part of the storage centralisation process, the data from the microscopy plat
 
 ### Users list
 
-The list of all know users is avallable [there](https://docs.google.com/spreadsheets/d/1jotxTXwJb3Dt136HSsVsOaMJvj9D9dbpPWAVCWmMUsA/edit?gid=0#gid=0) (note that anyone with the link can modify the information, so be warry when accessing and modifying it). As a user, take a look and confirm your affililation and whether the data there should be considered Hot or Cold [described here](storage.md). As a group leader, take a look and ensure that all alumni from your group have been assigned correctly and similarly, decide whether the data should be considered Hot or Cold.
+The list of all know users is available [there](https://docs.google.com/spreadsheets/d/1jotxTXwJb3Dt136HSsVsOaMJvj9D9dbpPWAVCWmMUsA/edit?gid=0#gid=0) (note that anyone with the link can modify the information, so be warry when accessing and modifying it). As a user, take a look and confirm your affiliation and whether the data there should be considered Hot or Cold [described here](9.%20storage.md). As a group leader, take a look and ensure that all alumni from your group have been assigned correctly and similarly, decide whether the data should be considered Hot or Cold.
 
 
 ### Migration process
