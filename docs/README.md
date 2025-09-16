@@ -1,5 +1,5 @@
 On these pages you will find basic information about the bio-info facility's infrastructure and how to properly use it to ensure minimum disruptions and maximum productivity. 
-This page also acts as a library of common scripts and templates created to avoid reinventing the wheel then and again. This resource assumes no prior user experience with bioinformatic tools and resources. If you are familiar with the tools and resources, great, if not, please visit the **Resources** section in the [Onboarding](2_Onboarding.md) tab.
+This page also acts as a library of common scripts and templates created to avoid reinventing the wheel then and again. This resource assumes no prior user experience with bioinformatic tools and resources. If you are familiar with the tools and resources, great, if not, please visit the **Resources** section in the [Onboarding](2_Onboarding.md#access) tab.
 
 
 ## CITATION AND ACKNOWLEDGEMENTS
