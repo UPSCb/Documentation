@@ -59,7 +59,7 @@ As part of the storage centralisation process, the data from the microscopy plat
 
 ### Users list
 
-The list of all know users is available [there](https://docs.google.com/spreadsheets/d/1jotxTXwJb3Dt136HSsVsOaMJvj9D9dbpPWAVCWmMUsA/edit?gid=0#gid=0) (note that anyone with the link can modify the information, so be warry when accessing and modifying it). As a user, take a look and confirm your affiliation and whether the data there should be considered Hot or Cold [described here](9.%20storage.md). As a group leader, take a look and ensure that all alumni from your group have been assigned correctly and similarly, decide whether the data should be considered Hot or Cold.
+The list of all know users is available [there](https://docs.google.com/spreadsheets/d/1jotxTXwJb3Dt136HSsVsOaMJvj9D9dbpPWAVCWmMUsA/edit?gid=0#gid=0) (note that anyone with the link can modify the information, so be warry when accessing and modifying it). As a user, take a look and confirm your affiliation and whether the data there should be considered Hot or Cold [described here](9_storage.md). As a group leader, take a look and ensure that all alumni from your group have been assigned correctly and similarly, decide whether the data should be considered Hot or Cold.
 
 
 ### Migration process
