@@ -49,12 +49,6 @@ A comprehensive guide outlining how to access and use our servers properly is [h
 Use R-Studio/aspseq only for data exploration and visualization. Loading heavy data sets or performing memory intensive tasks like sequence alignments etc. will break the server. 
 All steps before this should be done using **`bash`**.
 
-A graphic on how our servers are set up:
-
-
-<img width="650" height="400" alt="image" src="https://github.com/UPSCb/Documentation/blob/main/docs/server_graphic.png?raw=true"/>
-
-
 ---
 ## Resources
 
@@ -86,6 +80,13 @@ At UPSCb we have our own servers for both computation and storage. We also use r
 #### Local
 
 Our on-site machines are used for both computation and storage. A few names you will come across frequently are `riboexplorer`, `aspseq` and `micro`. All these machines are accessed via `ssh`.
+
+A graphic on how our servers are set up:
+
+
+<img width="650" height="400" alt="image" src="https://github.com/UPSCb/Documentation/blob/main/docs/server_graphic.png?raw=true"/>
+
+
 
 #### National/Regional
 
