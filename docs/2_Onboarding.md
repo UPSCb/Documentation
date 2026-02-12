@@ -49,7 +49,9 @@ A comprehensive guide outlining how to access and use our servers properly is [h
 Use R-Studio/aspseq only for data exploration and visualization. Loading heavy data sets or performing memory intensive tasks like sequence alignments etc. will break the server. 
 All steps before this should be done using **`bash`**.
 
-A graphic on how our servers are set up: 
+A graphic on how our servers are set up:
+
+
 <img width="371" height="354" alt="image" src="https://github.com/UPSCb/Documentation/blob/main/docs/server_graphic.png?raw=true"/>
 
 
