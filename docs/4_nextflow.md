@@ -75,3 +75,8 @@ Please change NXF_HOME to a place in your project directory (export NXF_HOME=you
 Meaning, you should:
 
 `export NXF_HOME=/mnt/ada/projects/pine/nstreet/pine-leaf-fungi/nextflow`
+
+
+## In-house pipelines
+
+While most of the standard anlaysis in the facility is now done using Nextflow pipelines, we still have our own framework of scripts that we use for some steps of a standard analysis or for some non-standard analysis. This resource hosted on [Github](https://github.com/UPSCb/UPSCb-common/tree/master/pipeline) contains scripts written (mostly) in bash that you can copy into your project and use through the [SLURM](2_Onboarding.md#further-reading) queueing system. Most of these scripts rely on [containers](2_Onboarding.md#resources). 

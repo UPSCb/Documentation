@@ -18,6 +18,3 @@ We would also like to acknowledge support from Science for Life Laboratory, the 
 
 **2022/12/06** I found a serious bug in the DE template! I have corrected the DE template: <https://github.com/UPSCb/UPSCb-common/tree/master/templates/R>, but please check out your analysis done since 2021/03/05. Sadly, it means that any analysis needs redoing! :disappointed: :disappointed: :disappointed: The issue is that the template used the lfcThreshold when retrieving the DE results (using the DESeq2 results function). What this does, unlike the alpha parameter that sets the FDR threshold to return results, is to change the test that is being done. Instead of comparing for a difference in expression of 0, it tests for a difference in expression at the selected value (+0.5 by default). Results are likely to be quite drastically different!
 
-## Contact us
-
-For UPSC members, ask us to be added to our Slack channel as well as mailing list. These are the two channels we use to communicate about server updates and downtime (as well as other technical issues), but also those we use to discuss projects, provide support, *etc.*
