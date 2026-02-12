@@ -17,6 +17,8 @@ Upon reviewing alternatives, the cheapest option was selected and will be financ
 
 The storage is meant to store research data of any kind, at the moment principally `sequencing` and `microscopy`. However, the storage can also be used at the discretion of the research groups to store and share additional research- or work-related data. While, this may seem redundant to the existing access to storage solutions from either university (SLU or UmU) (e.g. OneDrive), it may be easier to use for storing data generated on instruments in the lab, where the storage can be readily accessible, such as the case for the computers associated to the microscopes.
 
+In additon to the time requirements mentioned above, safe data storage also puts emphasis on storing at least 3 copies of data, in two different formats, and at two different physical locations out of which ideally one should be offline (3-2-2-1). Having the data on our storage server allows you to be in partial compliance with these regulations. 
+
 ## Specifications
 
 The storage is hosted on a Synology NAS HD6500 with currently 501 TB of storage. This is named `hopper`. It is extensible to 6 PB through extension units (1PB each). The storage is redundant (RAID6) and has daily rolling-over snapshots. We are in the process of extending storage in form of a archive storage which will be accessible in the near future. 

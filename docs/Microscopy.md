@@ -47,7 +47,18 @@ For some users, it only worked after capitalising the first letter of the userna
 
 ### Linux
 
-If you are using e.g. Ubuntu, you can similarly access the folder. We have not had any such use-case so far, so contact the facility if you are interested.
+If you are using e.g. Ubuntu, you can similarly access the folder. First, get your uid and gid by running
+
+```bash
+id <YOUR_USERNAME>
+```
+
+Then, you can mount the folder using the following command
+
+```bash
+sudo mount -t cifs --verbose -o username=<YOURUSERNAME>,uid=<YOURUID>,gid=<YOURGID>,sec=ntlmssp,iocharset=utf8,domain=hopper.srv.its.umu.se,dir_mode=0700 '//hopper.srv.its.umu.se/XXXXX' /mnt/UPSCb
+#XXXXX should be replaced with the name of the folder (see above)
+```
 
 ### On common lab computers
 
