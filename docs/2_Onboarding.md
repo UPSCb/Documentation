@@ -52,7 +52,7 @@ All steps before this should be done using **`bash`**.
 A graphic on how our servers are set up:
 
 
-<img width="371" height="354" alt="image" src="https://github.com/UPSCb/Documentation/blob/main/docs/server_graphic.png?raw=true"/>
+<img width="650" height="400" alt="image" src="https://github.com/UPSCb/Documentation/blob/main/docs/server_graphic.png?raw=true"/>
 
 
 ---
