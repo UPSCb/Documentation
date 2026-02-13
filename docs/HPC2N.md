@@ -1,4 +1,4 @@
-As mentioned in the [Resources](2_Onboarding.md#resources) tab, you can also access HPC2N resources. Comprehensive documentation on how to use and access HPC2N is available [here](https://docs.hpc2n.umu.se/). Below you will find information on how to get started.
+As mentioned in the [Resources](2_Onboarding.md#resources) tab, you can also access HPC2N resources. *In fact, we are actively working on using HPC2N for most of our computational needs.* Comprehensive documentation on how to use and access HPC2N is available [here](https://docs.hpc2n.umu.se/). Below you will find information on how to get started.
 
 ### SUPR/NAISS account
 
