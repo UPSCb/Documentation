@@ -28,6 +28,8 @@ We use key based authentication for access to the servers. Once your key has bee
 Before you start analysing data make sure to get familiar with the Resources (see below) at your disposal. In addition to the information on that page, know that we use `git` and `SLURM` to ensure reproducible research, here are gists on how to use them in your projects:
 
 1.  [Git setup](https://gist.github.com/nicolasDelhomme/46a1053d277510b95692318bd1732b6d)
+    >!!! Note 
+    The location of the project-template has changed. It is now loacted [here](https://github.com/UPSCb/project-template) 
 2.  [SLURM usage](https://gist.github.com/nicolasDelhomme/6fbff1e4db3c7ee4b3bb4f710667fd0d)
           
           
